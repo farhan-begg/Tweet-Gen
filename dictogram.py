@@ -24,9 +24,8 @@ class Dictogram(dict):
 
         if self.get(word, 0) == 0:
             self.types += 1
-        
-        self[word] = self.get(word,0) + count
 
+        self[word] = self.get(word,0) + count
 
     def frequency(self, word):
         """Return frequency count of given word, or 0 if word is not found."""
