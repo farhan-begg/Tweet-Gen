@@ -21,20 +21,9 @@ def index():
 # Andrey's help
     for i in range(0, sentence_size):
         sentence_list.append(main_sample(text))
-
-    print(sentence_list)
- 
-    
     sentence_string = " ".join(sentence_list)
-
+    
     return render_template('index.html', sentence=sentence_string)
-
-
-
-
-# histogram = histogram_dict(text)
-
-
 
 if __name__ == '__main__':
     app.run(debug=True)
