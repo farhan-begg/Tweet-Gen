@@ -15,19 +15,21 @@ def list_file():
     return words_list
 
 
-class Markov(dict):
+# class Markov(dict):
 
-    def __init__(self, words_list = None):
-        super(Markov, self).__init__()
+#     def __init__(self, words_list = None):
+#         super(Markov, self).__init__()
 
-    # if words_list is not None:
-    #     self.create_markov_chain(words_list)
-    #     self['start'] = Dictogram(['the'])
-    #     self['end'] = Dictogram([ ' . '])
+#     # if words_list is not None:
+#     #     self.create_markov_chain(words_list)
+#     #     self['start'] = Dictogram(['the'])
+#     #     self['end'] = Dictogram([ ' . '])
 
-    def create_markov_chain(self, words_list):
+#     def create_markov_chain(self, words_list):
 
-        for index, word in enumerate(words_list):
+#         for index, word in enumerate(words_list):
 
-            if self.get(word) == None:
-                self[word] = Dictogram()
+#             if self.get(word) == None:
+#                 self[word] = Dictogram()
+
+#             if index + 1 < len 
