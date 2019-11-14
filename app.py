@@ -7,10 +7,11 @@ app = Flask(__name__)
 @app.route('/')
 def index():
     """Return Homepage"""
+    
     sentence_size = 10
     sentence_list = []
     text = 'test.txt'
-# Andrey's help
+
     for i in range(0, sentence_size):
         sentence_list.append(main_sample(text))
     sentence_string = " ".join(sentence_list)
