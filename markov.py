@@ -1,35 +1,29 @@
-from dictogram import Dictogram
-import random 
-from histogram import open_file
+# from dictogram import Dictogram
+# import random 
+# from histogram import open_file
+
+# def open_file(words_file):
+#     '''Opens text file and arranges words into a readable list '''    
+
+#     with open (words_file, 'r') as f:
+#         words = f.read()
+#         scrubbed_words = re.sub(r'[^a-zA-Z\s]', '', words)
+    
+#     return scrubbed_words.split(" ")
 
 
 
-def list_file():
-    words_file = 'test.txt'
-    text = open_file(words_file)
-    words_list = []
+# def generate_sentence(chain, count=15):
 
-    for word in text:
-        words_list.append(word)
+#     word1 = random.choice(list(chain.keys()))
+    
+#     for i in range(count-1):
+#         word2 = random.choice(chain[word1])
+#         word1 = word2
+#         sentence += ' ' + word2
 
-    return words_list
+#     return(sentence )
 
+# words_file = ('test.txt')
+# generate_sentence(ali_dict)
 
-# class Markov(dict):
-
-#     def __init__(self, words_list = None):
-#         super(Markov, self).__init__()
-
-#     # if words_list is not None:
-#     #     self.create_markov_chain(words_list)
-#     #     self['start'] = Dictogram(['the'])
-#     #     self['end'] = Dictogram([ ' . '])
-
-#     def create_markov_chain(self, words_list):
-
-#         for index, word in enumerate(words_list):
-
-#             if self.get(word) == None:
-#                 self[word] = Dictogram()
-
-#             if index + 1 < len 
