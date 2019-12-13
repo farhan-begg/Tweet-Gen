@@ -2,6 +2,8 @@ import sys
 import re
 
 
+
+
 def open_file(words_file):
     '''Opens text file and arranges words into a readable list '''    
 
@@ -10,7 +12,8 @@ def open_file(words_file):
         scrubbed_words = re.sub(r'[^a-zA-Z\s]', '', words)
     
     return scrubbed_words.split(" ")
-
+    
+    
 def histogram_dict(words_file):
     '''Takes text argument and returns a histogram data structure in a dictionary form'''
     

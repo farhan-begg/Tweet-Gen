@@ -1,29 +1,57 @@
-# from dictogram import Dictogram
-# import random 
-# from histogram import open_file
+from dictogram import Dictogram
+from histogram import histogram_dict, open_file
+import random
 
-# def open_file(words_file):
-#     '''Opens text file and arranges words into a readable list '''    
-
-#     with open (words_file, 'r') as f:
-#         words = f.read()
-#         scrubbed_words = re.sub(r'[^a-zA-Z\s]', '', words)
+class MarkovChain(dict):
+    def __init__(self, word_list=None):
+        #intialize the super class
+        super(MarkovChain, self).__init__()
+        
+        #if word list is passed, create a markov chain 
+        if word_list is not None:
+            self.create_markov(word_list)
     
-#     return scrubbed_words.split(" ")
-
-
-
-# def generate_sentence(chain, count=15):
-
-#     word1 = random.choice(list(chain.keys()))
+    def word_text(self, path = 'test.txt'):
+        words =    open_file(path)
     
-#     for i in range(count-1):
-#         word2 = random.choice(chain[word1])
-#         word1 = word2
-#         sentence += ' ' + word2
+        return words 
+    
+    def create_markov(self, word_list):
+        num_words = len(word_list)
 
-#     return(sentence )
+        for i, key in enumerate(word_list):
 
-# words_file = ('test.txt')
-# generate_sentence(ali_dict)
+            if self.get(key) is None:
+                self[key] = Dictogram()
+            
+            if num_words > i + 1:
+                word = word_list[i + 1]
+                self.get(key).add_count(word)
+    
+    def generate_sentence(self, word_list, num_words):
+        random_index = random.randint(0, len(word_list) - 1)
 
+        random_word = word_list[random_index]
+
+        word = random.choice(list(self.get(random_word)))
+
+        sentence = word 
+
+        for _ in range(num_words):
+            word = self[word].sample()
+
+            sentence += " " + word 
+        
+        return sentence
+    
+
+
+if __name__ == "__main__":
+    word_list = MarkovChain.word_text("  test.txt")
+    markov_chain = MarkovChain(word_list)
+
+
+
+    print(markov_chain)
+
+    print(markov_chain.generate_sentence(word_list, 10))

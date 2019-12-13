@@ -1,68 +1,1297 @@
-﻿Project Gutenberg’s Alice’s Adventures in Wonderland, by Lewis Carroll
+﻿
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
+It is hardly possible to realise and judge of Sappho without realising
+her environment. The picture must have its background, and the
+background is Lesbos about the year 600 B.C. One may well regret never
+to have seen the island now called Mytilini, but known in ancient times
+as Lesbos. There are, however, descriptions not a few, and with these
+we must perforce be satisfied. On the map it lies there in the Ægean
+Sea, a sort of triangle with rounded edges, pierced deeply on the south
+by two deep lochs or fiords, while toward each of its three angles it
+rises into mountains of from two to three thousand feet in height. One
+way it stretches some thirty-five miles, the other some twenty-five.
+
+It is twenty-five centuries ago since this island was the home of
+Sappho, of Alcæus, and of a whole school of the most finished lyric
+poetry and music ever heard in Greece. From its northern shore, across
+only seven miles of laughing sea, the poetess might every day look upon
+the Troad, the land of Homeric legend; and in the North-East distance,
+over the broadening strait, rose the storied crest of “many-fountained
+Ida.” The air was clear with that translucency of which Athens also
+boasted, and in which the Athenian poet rightly or wrongly found one
+cause of the Athenian intellectual brilliancy. The climate was, and
+still is, famous for its mildness and salubrity. The Lesbian soil was,
+and still is, rich in corn and oil and wine, in figs and olives, in
+building-wood and tinted marble. It was eminently a land of flowers and
+aromatic plants, of the rose and the iris, the myrtle and the violet,
+and the Lesbians would seem to have loved and cultivated flowers much
+as they are loved and cultivated in Japan.
+
+Such was the land. The Greeks who inhabited it belonged apparently to
+that Achæan-Æolian branch which was the first to cross from Europe
+to the north-west Ægæan and to oust, or plant colonies among, the
+older nameless--perhaps “Pelasgian”--occupants. This is not the place
+to discuss the tribal or even racial differences which once existed
+between Æolian, Ionian, and Dorian Greeks. Their divergence of
+character was great; it was of the first significance as exhibited in
+war, in social life, in art. The fact that each division spoke the
+Greek tongue, though with various accents and idioms, is no longer held
+as proof that their racial origin and capacity were the same. Between
+the Greek of Lesbos and the Greek of Sparta there were differences in
+temper, in adaptability, and in taste, as great as those between the
+English-speaking Irishman, with his nimble sympathies and his ready
+eloquence and wit, and the slower if surer Saxon of Mid-lothian. If
+we touch upon this question here, it is merely because it casts some
+measure of light upon those social and literary characteristics of the
+Lesbians in which Sappho fortunately shared. Almost beyond a doubt
+the Æolian Greeks who first made Lesbos their home were the nearest of
+kin to those fair-haired Achæans who, in the _Iliad_, followed their
+feudal lords to the siege of Troy. Socially a distinguishing mark of
+these people was the liberty and high position enjoyed by the women in
+the household, by the Penelopes as well as by the Helens. This fact
+has hardly been sufficiently considered in dealing with that peculiar
+position of Sappho and her coterie, concerning which something will be
+said later on. Artistically their distinguishing mark, as represented
+first in Homer, was their clear, open-eyed, original observation
+of essentials, their veracity of description, their dislike of the
+indefinite and the mystic. This too is clearly reflected in the work of
+Sappho and her compatriots.
+
+We must not, it is true, make too much of this racial derivation and
+its consequences. The population of Lesbos doubtless became mixed; the
+lapse of centuries, the passing away of the feudal relation, increasing
+ease and wealth in a softening climate, long intercourse with the trade
+and culture of the neighbouring Asiatic coast--all these had their
+inevitable effects. Nevertheless, among it all, the frank genius of
+earliest Greece is still discernible in the classic poetry of Lesbos.
+
+The island naturally possessed its characteristic speech. The dialect
+of Lesbos was strongly marked. It is altogether unsafe to specify at
+this distance of time the particular qualities of softness or sonority
+which belonged to Greek dialects; but, if one may venture where doubt
+must always be so great, it would not be unreasonable to speak of
+Lesbian Greek as perhaps the most “singable” of them all. In several
+ways it is peculiarly like Italian. The aspirate is gone, the double
+consonants are brought out with an Italian clarity unique in Greece,
+the vowels are firm and musical. And here we must remember that a
+local Greek dialect must never be looked upon as a provincial _patois_
+simply because it is not Attic. Neither Attic nor any other one speech
+possessed a pre-eminence in Greece in the year 600 B.C. The poet of
+every little independent Grecian state was free to compose in his own
+idiom, with no more hesitation or self-consciousness than would have
+occurred to a Provençal troubadour, an early _trouvère_ of Normandy,
+or a Sicilian poet before the age of Dante. The half-doubts of Burns
+when writing his native Scots would find no sympathy in Sappho or
+Alcæus. No poetry that profoundly stirs the heart was ever written with
+effort in an alien speech. Burns perhaps had some reason to be tempted
+to write in English. The Lesbian singers had no temptation to write in
+anything but Lesbian. Sappho may indeed be called the Burns of Greece,
+but if her dialect, like his, was local, it was at the same time the
+genuine and recognised language of the most cultured men and women of
+her people.
+
+Having thus spoken of Lesbos, its people, and its language, we may
+proceed to the social and ethical surroundings into which Sappho was
+born. The island contained, after the usual Greek fashion, perhaps
+half-a-dozen little communities independent of each other. All
+these had their “little summer wars” and their little revolutions;
+but it is with Mitylene, the chief and largest town, that the life
+of Sappho is identified. The history of such a town at this period
+may be compared to that of an Italian city in the later thirteenth
+century. It was the history of a struggle between a despotism, or an
+oligarchy of aristocrats, and the rights of the citizens. The _grandi_
+and _popolari_ of Florence in the time of Dante find their analogues
+in the conflicts of nobles like Alcæus and his brother Antimenidas
+against the champions of the common folk of Mitylene. There were also
+feuds less immediately explainable, just as there were feuds of Guelfs
+and Ghibellines, of Blacks and Whites. We need not inquire into the
+usurpations of Melanchrus and Myrsilus or the dictatorship of Pittacus.
+Men carried to power by favour of one party might drive their opponents
+into banishment, just as Dante was exiled to Verona and Ravenna. Among
+those who thus left their country for a space were the poet Alcæus and
+his greater contemporary Sappho. Particularly haughty and turbulent
+were the nobly born, and these often elected to roam abroad and serve
+as _condottieri_ in foreign armies rather than condescend to obey the
+rule of the commons at home. It may be mentioned in passing that the
+brother of the poet Alcæus took service under King Nebuchadnezzar, and
+in his wars killed a Goliath, who “lacked but a hand’s-breath of five
+cubits.”
+
+Yet these are after all but surface incidents, of which history
+often makes too much. As in modern times, the little wars and little
+revolutions caused but an inconsiderable suspension of social and
+industrial life. Commerce and art went on very much as before. The
+vines of Lesbos were pruned, the ships of Lesbos went trading down the
+coast, the poets and musicians of Lesbos played and sang. We know that
+while Guelfs were quarrelling with Ghibellines and Florentines were
+fighting with Pisans or Genoese, the festive processions went with song
+across the Arno, Giotto’s tower rose from the ground, Guido Cavalcanti
+composed his sonnets, and Dante, for all that he must fight in the
+front ranks at Campaldino, found time and hearers for his _Donne ch’
+avete intelletto d’amore_. So it was at Mitylene. We need not therefore
+picture Sappho and her society of maidens as living perpetually among
+war’s alarms or fluttering in daily expectation of battle, murder, and
+sudden death. Life in Lesbos must have been passing cheerful, as life
+goes.
+
+When we proceed next to speak of the lively enthusiasm of this Lesbian
+folk for beauty in all its forms, and in especial for the beauty of
+music and poetry, we must guard against a misconception. Under all
+the love of art which ruled in Lesbos, amid all its eager cultivation
+of the Muses and the Graces, this isle of Greece “where burning
+Sappho loved and sung” carried on its daily work as strenuously as
+any Greeks were wont. Its farmers and fishermen, its quarriers and
+vine-dressers, laboured like others in sun or cold. There was no doubt
+plenty of envy, hatred, and malice, and no little that was coarse and
+gross. Nevertheless the love of art and beauty and the spontaneous
+appreciation of them penetrated far deeper into a Greek people
+than it does with us. It was not an artificial outgrowth, a dainty
+efflorescence of leisure and luxury. It was no private possession of
+the _virtuoso_, or sequestered playground of the amateur. Even now the
+popular songs of the village Greeks are in literary grace and thought
+of a higher quality than many songs familiar to our drawing-rooms.
+Life without song and dance upon the sward was unimaginable in old
+Hellas.
+
+The special pride of Lesbos was in its music and poetry. In the
+language of the legend, when that magic singer Orpheus had been torn to
+pieces in Thrace, his head--with, as some say, his lyre--was carried
+“down the swift Hebrus to the Lesbian shore.” On the coins of Mitylene,
+as on the flag of Ireland, may be seen a harp. The first great name
+in the musical history of Greece is that of the Lesbian Terpander.
+It is not indeed a probable story that he was the first to increase
+the strings of the lyre from four to seven, but it is practically
+certain that he both improved that instrument and invented new forms
+of composition to embody a lyrical idea. Another world-known poet and
+musician who shed glory on Lesbos was Arion. Of him in later days the
+story grew that, when he was thrown overboard by pirates, a dolphin,
+which had been charmed by his melodies, bore him upon its back safe to
+the Tarentine shore.
+
+In Lesbos, as in every part of Greece, there were abundant demands upon
+musician and poet. Every occasion of worship, festivity, and grief
+required its song. The gods were hymned by groups at their altars
+and by white-robed maidens in processions; at weddings the hymeneal
+chorus was chanted along the street, and the epithalamion before the
+doors of the bridal home; at every banquet were sung lively catches and
+jocund songs of Bacchus; every season--spring, summer, harvest--had
+its popular ditty, exultant or pathetic; almost every occupation, of
+herdsman, boatman, gardener, was beguiled with melody; at the coming
+of the first swallow, as on the old English Mayday, the children sang
+the “swallow-song” from house to house. And let it be remembered that
+the Greeks had none of our modern tolerance for a song of which the
+words were nought and the tune everything. To them the thought, the
+sentiment, was first; the melody was simply its proper vehicle. Italian
+opera, when not a word is intelligible, would have seemed to them a
+strange anomaly. To them _mousikê_ was the “art of the Muses,” and this
+meant literature no less than minstrelsy. The poet, unless, like Burns,
+he wrote his verses to existing tunes, was his own composer. In either
+case he was poet first and foremost.
+
+Now for generations the songs for special purposes had been shaping
+themselves on special lines. To use a phrase of Aristotle, experience
+had found out the right species to fit the case. There were sundry
+recognised stanzas and metres for a processional, a hymeneal, or a
+dirge. In most cases, therefore, the task of a new poet was to write
+new words; the melody would, as in the case of Burns, almost find
+itself. Nevertheless the complete poet could not dispense with an
+elaborate training in music. To invent beautiful variations of existing
+tunes was part of his glory; he must at least write words which should
+sing themselves to the melody he selected. “Melodies” is the word,
+for the Greeks knew practically nothing of harmonies. Their songs were
+sung in unison, or simply with an octave interval when men sang with
+women or with boys. The accompanying instrument was generally the
+lyre, or one of many stringed instruments akin thereto; sometimes it
+was the so-called flute, which was in truth a clarinet. Whatever their
+musical deficiencies, it has been maintained by competent authorities
+that in nicety of ear for pitch and time the training of the Greeks
+incomparably surpassed the modern. Be that as it may, it must never be
+left out of sight that, when a Lesbian wrote a song, it was in the
+first place as perfect a poem as he could create, and in the second
+it was meant to be sung, not merely to be read. Shelley’s _Ode to a
+Skylark_ is consummate literature. Yet we may doubt if it could ever
+be sung, and assuredly it was not written to that end. On the other
+hand, the songs of Moore are often but sickly stuff to read, but they
+lend themselves perfectly to those touching Irish airs, to which, by
+the way, the Lesbians seem to have been akin in a peculiar tone of
+plaintiveness. A Greek lyric aimed at combining the literary _mousikê_
+of Shelley’s _Ode_ with the songful _mousikê_ of Moore. It is in the
+perfection of this combination that Sappho excels all women who have
+ever written verse.
+
+Where song was for generations so abundant, it follows that there was
+floating about among the people many an old ballad or favourite ditty
+whose author had been long forgotten. Numbers of these _Volkslieder_,
+or snatches of them, lay, sometimes with consciousness and sometimes
+unrealised, in the memory of every child of Lesbos. The artistic poet
+did not scorn them; he feared no charge of plagiarism if he adopted
+and adapted them; he often acted as Burns acted with the ballads of
+Scotland; he took them, gave them that marvellous and inexplicable
+touch of finality which only genius can impart, and so made them his
+for ever. This also did Sappho do, and her verses, when she deals with
+well-worn themes, are beyond question often fed with the hints of older
+nameless songsters.
+
+There is one department of lyric verse in which Lesbos stood supreme,
+and Sappho supreme in Lesbos. It is the poetry, not of religion or
+marriage, of the banquet or the seasons, but of personal emotion; the
+verse of the “lyric cry,” which tells of the writer’s own passion, its
+waves of joy and sorrow, love and hate. It is the monody, the verse
+sung, not by a gathered company, but from the one overflowing heart,
+the song best represented at Rome by Catullus, and in modern times by
+Burns or Heine. For most of her poems in this kind there is no reason
+to suppose that Sappho relied upon any promptings but those of her own
+soul. She took the floating rhythms of the ballads, modified them, and
+into their mould she poured verse which, as George Sand said of her own
+writings, came from “the real blood of her heart and the real flame of
+her thought.”
+
+And here at length we come to the poetess herself. Into this land,
+devoted to poetry, to music, to flowers, and so regardful of loveliness
+that a public “prize of beauty” was annually competed for in the
+temple of Hera, was Sappho--or Psappha, as she apparently called
+herself--born in the latter part of the seventh century before Christ.
+Our ancient authorities are sufficiently in agreement as to her date,
+and we may lay it down that she was in her prime about the year 600
+B.C., or nearly a hundred and fifty years before that great period of
+Athenian literary culture which is represented by Æschylus, Sophocles
+and Euripides. The ascertainable facts of her career are miserably
+few, and concerning those matters which are in debate as to her life
+and character the present exponent must be permitted to express simply
+his own views, premising that they have been formed with all due and
+deliberate care.
+
+Whether the names of her parents were or were not Scamandronymus and
+Clêis is an unimportant question. We may simply remark that both
+those names are of aristocratic colour, and both are more or less
+authenticated. Whether again she was born at Mitylene itself, or at the
+smaller town of Eresos, is of little moment, since we know that at any
+rate Mitylene was the scene of her life’s work. That she belonged to
+the ranks of the well-born, and that good looks were in the family, is
+proved by the choice of her brother Larichus as cup-bearer of Mitylene,
+an office which was bestowed only on handsome and noble youth. That
+at least one member of the family possessed considerable means is
+known from the rather romantic history of a second brother, Charaxus.
+This young man sailed away in his ship, laden with the famous Lesbian
+wine--the _innocentis pocula Lesbii_ of Horace--as far as Egypt.
+There he traded in that merchandise at the Pan-Grecian free-town of
+Naucratis, which had been established in the Delta under a permission
+somewhat similar to that by which settlement was first allowed in
+the treaty-ports of China. Here, however, he fell in love with the
+world-famed _demi-mondaine_ whose name, Doricha, is less familiar than
+her sobriquet Rhodôpis--“complexion of a rose”--and his gains were
+spent in chivalrously ransoming that lady from a degrading slavery. It
+is of interest to know, though the verses are not preserved to us, that
+his poetess sister reproved him sharply for this conduct. Her “love of
+love” did not blind her to the claims of family honour and dignity.
+It is gratifying to learn that at a later time she expresses her
+reconciliation to her brother in a poem which, like those of Herondas
+and Bacchylides, has but recently been disgorged, though in a sadly
+mutilated state, by the omnivorous sands of Egypt. Sappho herself is
+said to have married a wealthy islander of Andros, and to have had at
+least one daughter, whose name, according to Greek custom, was the name
+of the grandmother, Clêis. It is apparently this Clêis whom she is
+addressing in a fragment which we may venture to translate thus----
+
+  “I have a maid, a bonny maid,
+     As dainty as the golden flowers,
+   My darling Clêis. Were I paid
+     All Lydia, and the lovely bowers
+   Of Cyprus, ’twould not buy my maid.”
+
+An inscription on the Parian marbles informs us that, at some uncertain
+date, Sappho fled, or was driven, into banishment to Sicily. There
+is nothing unlikely in the circumstance, and it is worth noting that
+more than 500 years later, in the days of Cicero, Verres, the governor
+of that island, appropriated a bronze statue of Sappho, wrought by a
+Grecian master and greatly prized at Syracuse.
+
+As _Aberglaube_ which has gathered about Sappho’s history, there are
+two strange legends, or rather there is one strange legend in two
+parts, which must here be told briefly.
+
+The story goes that once upon a time Aphrodite, goddess of love,
+disguised as an aged woman, was gallantly ferried across to Lesbos by
+a young waterman of the name of Phaon. In reward she bestowed upon him
+marvellous beauty and irresistible charm. Of him, the fable tells,
+Sappho became enamoured to the point of frenzy, and, unable to win his
+heart, she resolved to attempt the last and most desperate cure known
+for her disease. Away in the Ionian Sea was the jutting rock of Leucas,
+and it was believed that those who cast themselves down from that
+cliff into the sea either ended their miseries in death or rose from
+the waters cured of their malady. What became of Sappho when she took
+that “lover’s leap” may be found narrated by Hephæstion. It is given in
+Addison’s 233rd _Spectator_. “Many who were present related that they
+saw her fall into the sea, from whence she never rose again; there were
+others who affirmed that she never came to the bottom of her leap, but
+that she was changed into a swan as she fell, and that they saw her
+hovering in the air under that shape. But whether or no the whiteness
+and fluttering of her garments might not deceive those who looked upon
+her, or whether she might not really be metamorphosed into that musical
+and melancholy bird, is still a doubt among the Lesbians.” Well, let
+us share the Lesbian doubt, and a little more. Suffice it to say that,
+though this story, which has been elaborated by the fancy of Ovid,
+appears to have been known in some shape to Menander and other comic
+poets of Athens, there is absolutely no trace of the name of Phaon or
+of anything connected with him in any fragment of Sappho. Nor was there
+likely to be, seeing that he is in all probability but another _avatar_
+of the mythical youth Adonis. More interesting is it to observe that
+the rock of desperation is called “Sappho’s Leap” unto this day.
+Unfortunately we do not know when or by whom it was so baptized.
+
+Of Sappho’s personal appearance we have no certain knowledge. More
+than four centuries later a philosopher named Maximus Tyrius says that
+she was considered beautiful, “though” short and dark, and hence is
+prompted Swinburne’s assumption--
+
+  “The small dark body’s Lesbian loveliness
+   That held the fire eternal.”
+
+If this be true, she was sufficiently unlike the conventional ideal of
+Lesbian beauty. Her contemporary Alcæus speaks of her “sweet smile,”
+and Anacreon, in the next generation, of her “sweet voice.” Later
+writers of epigrams, who can hardly have known much about the matter,
+call her “bright-eyed,” or “the pride of the lovely-haired Lesbians,”
+but those are as likely as not mere descriptive guesses of the kind
+in which poetical fancy may pardonably indulge. If we meet with the
+untranslatable adjective _kalê_ applied to her by Plato, we have to
+remember that it is a stock epithet of admiration for a writer of
+charm and genius, and in such cases contains no reference whatever to
+beauty of person.
+
+What we really know best of Sappho’s life is that she was acknowledged
+the choicest spirit of her time in music and poetry, and that,
+whether as friendly guide or professional teacher or something of
+both, she gathered about her what may be variously called a coterie,
+academy, conservatorium, or club, of young women, not only from Lesbos
+itself but from other islands, and even from Miletus and the distant
+Pamphylia. Sometimes they were called her “companions,” sometimes her
+“disciples.” One of them, Erinna of Telos, herself became famous, but
+unhappily survives for us as a lyrist only in an inconsiderable line or
+two.
+
+Sappho appears to have taught these damsels music and also the art of
+poetry, so far as that art is teachable. She appears, moreover, to
+have taught them whatever charms and graces of bearing and behaviour
+were most desired by women, whether in their social life or in
+their frequent appearances in religious or secular processions and
+ceremonies. There exists a short fragment in which she derides the
+rusticity of the woman who has no idea how to hold up her train about
+her ankles. In another place she bids one of her maidens--
+
+  “Take sprigs of anise fair
+     With soft hands twined,
+   And round thy bonny hair
+     A chaplet bind;
+   The Muse with smiles will bless
+     Thy blossoms gay,
+   While from the garlandless
+     She turns away.”
+
+It has often been observed that the relations of Sappho with the young
+women Erinna and Atthis and Anactoria resembled those of Socrates
+with the young men Alcibiades and Charmides and Phædrus. But it has
+apparently not been also pointed out as a parallel that, three
+centuries later, there similarly gathered about the _maître_ Philêtas,
+in the isle of Cos, a school of young poets, among whom were no less
+persons than Theocritus, Asclepiades and Aratus.
+
+The peculiarity of Sappho’s coterie lay to the general mind in the fact
+that it was a club of women. And here we must handle with brief and
+gentle touch, but with no false reserve, a topic which no discourse
+on Sappho can shrink from facing. The reputation of Sappho and her
+comrades has long been made to suffer from what is probably, and almost
+certainly, a cruel injustice. Partly through the social depravity of
+the later Greek and Roman, partly through taking too seriously the
+scurrilous humours of the comic dramatists of Athens, many ancients
+and most moderns have formed concerning that Lesbian school a notion
+which in all likelihood does bitter wrong to Sappho, wrong to art,
+and wrong to human nature. At Athens, as among all the Ionian Greeks,
+and later on among Greeks almost everywhere, a woman of character was
+kept in a seclusion suggestive of the oriental. The woman most to be
+praised, Pericles declared, was “she of whom least is said among men
+whether for good or evil.” This, as we have seen, was not the way of
+the older Æolian Lesbos, where woman still enjoyed much of the Homeric
+freedom and independence to go and come and live her life. What more
+natural than for Athenians to imagine that the famous coterie of Sappho
+consisted of women of the same class as the brilliant Aspasia? Their
+very talent was proof enough, for the Athenian housekeeper who passed
+for wife made no pretensions to literature and art. What more natural
+also than for an Athenian playwright, like him of the _Ecclesiazusæ_,
+or “_Women in Parliament_,” to find scandalous comedy in the
+_Précieuses_ of Lesbos? Again, the poems of Sappho are nearly all poems
+of love, and to the ordinary Greek, especially of a later date, it was
+unseemly for modest women to acknowledge so positive a passion. An
+Elizabeth Barrett Browning would have received no countenance from the
+Athenian Mrs. Grundy. The truth seems to be that Lesbos in the year 600
+B.C. was in this respect socially and ethically almost as different
+from the Athens of two hundred years later as the emancipated young
+woman of America is different from the dragon-guarded Spanish maiden of
+Madrid.
+
+We may pass by other considerations which might be urged, but it is
+no surprise that the false notion of Sappho, constructed by decadent
+Greeks and refined upon by the vice of the Romans, should do her
+special harm in the days when paganism gave way to Christianity. Among
+the many works destroyed by the unco’ guid in the early Byzantine days
+were the poems of Sappho--destroyed the more savagely because that
+particular pagan, who so passionately invoked the Queen of love, was a
+woman, and woman’s ideal place was then the cloister. Unhappily certain
+moderns, who are anything but unco’ guid, have carried on the wrong in
+a different way, and, for example, the title _Sapho_ of Daudet’s sketch
+of _mœurs Parisiennes_ is a choice which may pardonably stir the ire of
+any Hellenist.
+
+The few fragments of Sappho which have been preserved are not those
+which have been spared by the saints or which have been culled for
+special innocence. They simply happen to be quoted here and there by
+ancient critics, grammarians, and even lexicographers, to illustrate
+some æsthetic doctrine, the use of some word, or even some peculiarity
+of grammar. And no understanding man or woman can read them without
+feeling that what we find is sheer poetry, sound and true, free
+from dross in either form or thought. Says Sappho herself, “I love
+daintiness, and for me love possesses the brightness and beauty of the
+sun.” To Alcæus, her fellow-countryman and acquaintance, she was the
+“violet-weaving, pure, sweetly-smiling Sappho.” To Plato, who judged
+even art by ethical standards, she is “beautiful and wise.” Her reply
+to her fellow-poet, when he was too bashful to say something which was
+in his mind, was this--
+
+  “Had your desire been right and good,
+     Your tongue perplex’d with no bad thought,
+   With frank eye unabashed you would
+     Have spoken of the thing you ought.”
+
+To some lover she says--if she is speaking in her own person--
+
+  “As friends we’ll part:
+     Win thee a younger bride;
+   Too old, I lack the heart
+     To keep thee at my side.”
+
+Nay, we may go further and say that, after reading and re-reading
+and translating and commenting on her poems, so far as we possess
+them, we find her verse full indeed of warmth and colour, full of
+poignant feeling, but never riotous, always sane, always controlled
+by the truest sense of art. Obedience to the central Greek motto
+μηδὲν ἄγαν--“nothing too much”--was never better exemplified. The
+Greeks would never have set her on such a pedestal if she had been
+the poetical mænad who seems to exist in the mind of Swinburne, when
+he writes of her, in that vicious exaggeration of phrase which he too
+often affects, as--
+
+  “Love’s priestess, mad with pain and joy of song,
+   Song’s priestess, mad with joy and pain of love.”
+
+No writer so lacking in _sophrosyne_ could assert, as Swinburne
+elsewhere in his finer and truer style makes her assert--
+
+  “I Sappho shall be one ...
+   ... with all high things for ever.”
+
+There is not a line of Sappho of which you do not feel that, glow as
+it may with feeling, it is constructed with such art as--unconscious
+though it may possibly be--can only be sustained in a mind of perfect
+sanity.
+
+There is something else which is too often strangely overlooked in
+judging a poet from his writings alone. It is particularly liable to be
+forgotten when the writings which have been preserved are but fragments
+severed from their context. The poet is not always writing in his
+own person; he is not always revealing his own feelings. He is often
+dramatising; and his verses then utter the sentiments and passions
+suited to the character concerned. No one will accept a passage culled
+from Shakespeare as proof of the ethical views of Shakespeare himself.
+It may express only the whim of Falstaff, or the snarl of Shylock, or
+the banter of Benedick, or the melancholy humour of Hamlet. Allowing
+for all the difference between lyric poetry and dramatic, the lyrist
+also has his passages in which he is speaking for another. He may be
+actually writing _for_ another. _In Memoriam_ doubtless represents the
+heart of Tennyson himself. But suppose posterity to retain but a few
+fragments of his other works. What shall we say of those who might take
+the isolated words “I am aweary, aweary, I would that I were dead” as
+a proof of the settled pessimism of our poet? We know that the speaker
+was Mariana. We do not always know who is the speaker in the fragments
+of Sappho. But, even if we did know, there still remains not a verse
+which betrays the too much, or which passes beyond the pathetic into
+the reckless, the hysterical, still less the dissolute.
+
+Behind Sappho, as behind Burns before he wrote “Green grow the rushes
+O” or “Auld Lang Syne,” lay a mass of popular ballads and a wealth
+of lyrical ideas to be seized upon and shaped when the perfect mood
+arrived. When she sings--
+
+  “Sunk is the moon;
+     The Pleiades are set;
+   ’Tis midnight; soon
+     The hour is past; and yet
+   I lie alone”--
+
+it is probable that she is setting one such prehistoric lyrical idea to
+new words or recasting one such vagrom ditty. It is practically certain
+that she is doing so in that quatrain which begins “Sweet mother mine,
+I cannot ply my loom.” That thought is embodied in English folksong
+also--“O mother, put my wheel away; I cannot spin to-night”--as well as
+in German and other tongues.
+
+Let us then sweep aside from the memory of Sappho the myths of Phaon
+and the Leucadian leap, and the calumnies of Athenian worldlings in
+the comic theatre; let us reject all that Swinburnian hyperbole which
+makes her “mad” in any sense whatever; and let us simply take her upon
+the strength of the “few passages, but roses” which are left to us,
+and upon the word of Alcæus that she was the “violet-weaving, pure,
+sweetly-smiling Sappho.”
+
+Her life as teacher and æsthetic guide in Lesbos evidently did not pass
+without a cloud. Her talent, like talent everywhere, found jealous
+rivals and detractors. A certain Andromeda seems to have caused her
+special vexation by luring away her favourite pupil Atthis. There
+were also, then as now, rich but uncultured women who had little love
+for art and its votaries, particularly if these latter were all too
+charming. To one such woman Sappho, who, like a true Æolian, looked
+with horror on a life without poetry and a death unhonoured by song,
+writes--
+
+  “When thou art dead, thou shalt lie, with none to remember or mourn,
+     For ever and aye; for thy head no Pierian roses adorn;
+   But e’en in the nether abodes thou shalt herd thee, unnoted, forlorn,
+     With the dead whom the great dead scorn.”
+
+Her work as poetess, though of everlasting value for what it touches in
+universal humanity, naturally bears many marks of her country and her
+time. Besides her songs of personal emotion, she wrote in several of
+the various forms of occasional verse which we found reason to mention
+as existing in Lesbos. Of her wedding songs and epithalamia we possess
+a number of short fragments. Among them is one in the accepted amœbæan
+or antiphonic style, in which a band of girls mock the men with failure
+to win some dainty maiden, and the men reply with a taunt at the
+neglected bloom of the unprofitable virgin. Say the maids--
+
+  “On the top of the topmost spray
+     The pippin blushes red,
+   Forgot by the gatherers--nay!
+     Was it “forgot” we said?
+   ’Twas too far overhead!”
+
+Reply the men--
+
+  “The hyacinth so sweet
+     On the hills where the herdsmen go
+   Is trampled ’neath their feet,
+     And its purple bloom laid low--”
+
+and there unhappily the record deserts us.
+
+The writing of Sappho was thus in no way dissociated from the
+surrounding life of Lesbos. Similarly the Lesbian love of bright
+and beautiful things--of gold, of roses, of sweet odours and sweet
+sounds--pervades all that is left of her. The Queen of Love sits on a
+richly-coloured throne; she dispenses the “nectar” of love in “beakers
+of gold”; she wears a “golden coronal”; the Graces have “rosy arms”;
+verses are the “rose-wreath of the Muses”; the blessed goddesses shower
+grace upon those who approach them with garlands on their heads. If
+maidens dance around the altar, they may dance most pleasantly on the
+tender grass flecked with flowers. It is sweet to lie in the garden of
+the Nymphs, where--
+
+  “Through apple-boughs, with purling sound,
+     Cool waters creep;
+   From quivering leaves descends around
+     The dew of sleep.”
+
+Sweet among sounds is that of the “harbinger of spring, the
+nightingale, whose voice is all desire.” Sappho does in very truth, as
+she declares, love daintiness. Above all, she loves love. Love is the
+“nectar” in the lines--
+
+  “Come, Cyprian Queen, and, debonair,
+     In golden cups the nectar bear,
+   Wherein all festal joy must share
+     Or be no joy.”
+
+But there is nothing morbid, nothing of the hot-house, about all this.
+It is simply the frank, naïve, half-physical, half-mental, enjoyment
+of the youth of the world, as fresh and healthy as the love of the
+_trouvères_, or of Chaucer, for the daisy, and of the balladist for
+the season when the “shaws be sheen and leaves be large and long.”
+
+Unhappily of the nine books of Sappho there have survived only one
+complete poem, one or two considerable fragments, and a number of
+scraps and lines. So far as we possess even these we have to thank
+ancient critics, such as Aristotle, Dionysius, and Longinus, writers
+of miscellanies, such as Plutarch and Athenæus, or grammarians like
+Hephæstion. We have also to thank those modern scholars, and particular
+Bergk, who have acutely and patiently gleaned the scattered remnants
+from the pages of these ancient authorities. Scanty as they are, we can
+gather from them as profound a conviction of their creator’s genius
+as we gather from some fragmentary torso of an ancient masterpiece of
+sculpture. We may grieve that a torso of Praxiteles is so mutilated;
+nevertheless the art of the master speaks in every recognisable line
+of it. According to the old proverbs, “Hercules may be known from his
+foot” and “a lion from his toe-nail.” What remains of Sappho is enough
+to make us fully comprehend the splendour of her poetic reputation in
+ancient times. That reputation was unique. To the Greeks “the poet”
+meant Homer; “the poetess” meant Sappho. The story goes that Solon,
+the Athenian sage and legislator who was her contemporary, hearing
+his nephew sing one of Sappho’s odes, demanded to be taught it, “So
+that I may not die without learning it.” Plato consents to praise her,
+and that, when Plato speaks of a poet, is praise from Sir Hubert. To
+Aristotle she ranks with Homer and Archilochus. Strabo, the geographer,
+calls her “a marvellous being,” whom “no woman could pretend to rival
+in the very least in the matter of poetry.” Plutarch avers that “her
+utterances are veritably mingled with fire,” and that “the warmth of
+her heart comes forth from her in her songs.” He confesses also that
+their dainty charm shamed him to put by the wine-cup. To one writer of
+epigrams, said to be Plato himself, she is the “Tenth Muse”; to others
+she is the “pride of Greece” or the “flower of the Graces.” It is
+recorded that Mitylene stamped her effigy upon its coins. If imitation
+is the sincerest flattery, she was flattered abundantly. The most
+genuine lyric poet of Rome, Catullus, and its most skilful artificer of
+odes, Horace, both freely copied her. They did more than imitate; they
+plagiarised, they translated, sometimes almost word for word. There
+is scarcely an intelligible fragment left of Sappho which has not been
+borrowed or adapted by some modern poet, in English, French, or German.
+
+There is one mutilated ode of hers which no one can translate. It is
+quoted by Longinus as showing with what vivid terseness she can portray
+the tumultuous and conflicting sensations of a lover in that bright
+fierce south. Ambrose Philips makes it wordy; Boileau makes it formal.
+It displays all the grand Greek directness, but a directness clothed
+in the grand Greek charm of perfect rhythmical expression. We can
+preserve, if we will, the directness, but the charm of its medium will
+inevitably vanish.
+
+In effect, lamentably stripped of its native verbal charm, it may be
+rendered--
+
+  “Blest as the gods, methinks, is he
+   Who sitteth face to face with thee
+     And hears thy sweet voice nigh,
+   Thy winsome laugh, whereat my heart
+   Doth in my bosom throb and start;
+     One glimpse of thee, and I
+   Am speechless, tongue-tied; subtle flame
+   Steals in a moment through my frame;
+     My ears ring; to mine eye
+   All’s dark; a cold sweat breaks; all o’er
+   I tremble, pale as death; nay more,
+     I seem almost to die.”
+
+When after this we read in the _Phèdre_ of Racine these four lines--
+
+  Je le vis, je rougis, je palis à sa vue,
+  Un trouble s’éleva dans mon âme éperdue;
+  Mes yeux ne voyaient plus, je ne pouvais parler,
+  Je sentais tout mon cœur et transir et brûler:
+
+we recognise their source. We recognise, also, if it were not already
+confessed, the source of this of Tennyson in his _Fatima_:
+
+  “Last night, when some one spoke his name,
+   From my swift blood, that went and came,
+   A thousand little shafts of flame
+   Were shivered in my narrow frame.”
+
+If this physical perturbation seems strange to the more reticent man of
+northern blood, it was in no way strange to Theocritus, to Catullus, or
+to Lucretius. Once more, according to the German proverb, “he who would
+comprehend the poet must travel in the poet’s land.”
+
+And here we are confronted with a supreme difficulty. While mere fact
+is readily translatable, and thought is approximately translatable,
+the literary quality, which is warm with the pressure and pulsation of
+a writer’s mood and rhythmic with his emotional state, is hopelessly
+untranslatable. It can be suggested, but it cannot be reproduced. The
+translation is too often like the bare, cold photograph of a scene of
+which the emotional effect is largely due to colour and atmosphere. The
+simpler and more direct the words of the original, the more impossible
+is translation. In the original the words, though simple and direct,
+are poetical, beautiful in quality and association. They contain in
+their own nature hints of pathos, sparks of fire, which any so-called
+synonym would lack. They are musical in themselves and musical in
+their combinations. They flow easily, sweetly, touchingly through the
+ear into the heart. The translator may seek high and low in his own
+language for words and combinations of the same _timbre_, the same
+ethical or emotional influence, the same gracious and touching music.
+He will generally seek in vain. In his own language there may exist
+words approximately answering in meaning, but, even if they are fairly
+simple and direct, they are often commonplace, sullied with “ignoble
+use,” harsh in sound, without distinction or charm. He may require a
+whole phrase to convey the same tone and effect; he becomes diffuse,
+where terseness is a special virtue of his original. Let a foreigner
+study to render this--
+
+  “Had we never loved sae kindly,
+   Had we never loved sae blindly,
+   Never met, or never parted,
+   We had ne’er been broken-hearted.”
+
+Or this----
+
+  “Take, O take those lips away,
+     That so sweetly were forsworn,
+   And those eyes, the break of day,
+     Lights that do mislead the morn!
+   But my kisses bring again,
+   Seals of love, but sealed in vain.”
+
+Is it to be imagined that he could create precisely the effect of
+either of these stanzas in French or Italian? Is not much of that
+effect inseparable from the words?
+
+Take a perfectly simple stanza of Heine--
+
+  “Du bist wie eine Blume
+   So hold und schön und rein:
+   Ich schau’ dich an, und Wehmuth
+   Schleicht mir ins Herz hinein.”
+
+Near as English is to German, incomparably more easy as it is to render
+German into English than Greek into English, it may be declared that no
+English rendering of this verse conveys, or ever will convey, exactly
+the impression of the German original.
+
+In respect of mere musical sound, what other words could run precisely
+like those of Coleridge at the opening of _Kubla Khan_, or like
+Shelley’s “I arise from dreams of thee”? The case is exactly the same
+when we turn to a Greek lyric. Alcæus writes four words which mean
+simply “I felt the coming of the flowery spring”; but no juxtaposition
+of English words yet attempted to that effect can recall to the student
+of Greek the impression of
+
+  ἦρος ἀνθεμόεντος ἐπάϊον ἐρχομένοιο.
+
+It is necessarily so with Sappho. She is an embodiment of the typical
+Greek genius, which demanded the terse and clear, yet fine and noble,
+expression of a natural thought, free, as Addison well says, from
+“those little conceits and turns of wit with which many of our modern
+lyrics are so miserably infected.” True Greek art detests pointless
+elaboration, strained effects, or effects which have to be hunted for.
+The Greek lyric spirit would therefore have loved the best of Burns
+and would have recognised him for its own. But you cannot translate
+Burns. Neither can you translate Sappho. Nevertheless one attempt may
+be nearer, less inadequate, than another. Let us take the hymn to
+Aphrodite. It is quoted by the critic Dionysius for its “happy language
+and its easy grace of composition.”
+
+The first stanza contains in the Greek sixteen words, big and little.
+In woeful prose these may be literally rendered “_Radiant-throned
+immortal Aphrodite, child of Zeus, guile-weaver, I beseech thee, Queen,
+crush not my heart with griefs or cares._”
+
+In turning Greek poetry into English, and so inserting all those little
+pronouns and articles and prepositions with which a synthetic language
+can dispense, it may be estimated that the number of words will be
+greater by about one half,--the little words making the odd half. But
+Ambrose Philips makes thirty-four words out of those sixteen--
+
+  “O Venus, _beauty of the skies,
+   To whom a thousand temples rise,
+   Gaily false in gentle smiles_,
+   Full of love-perplexing wiles;
+   O Goddess, from my heart remove
+   The wasting cares and pains of love.”
+
+The italics should suffice for criticism upon the fidelity of this
+“translation.” Mr. J. H. Merivale, though more faithful to the material
+contents, finds forty-three words necessary--
+
+  “Immortal Venus, throned above
+   In radiant beauty, child of Jove,
+   O skilled in every _art of love
+     And_ artful snare;
+   _Dread power, to whom I bend the knee,
+   Release_ my soul and set it free
+   From _bonds_ of _piercing_ agony
+     And _gloomy_ care.”
+
+We may perhaps without presumption ask whether the sense is not given
+more faithfully, in a more natural English form and rhythm, and in
+a shape sufficiently reminiscent of the original stanza, in the
+twenty-three words which follow--
+
+  “Guile-weaving child of Zeus, who art
+   Immortal, throned in radiance, spare,
+   O Queen of Love, to break my heart
+     With grief and care.”
+
+Keeping to the same principles of strict compression and strict
+simplicity we may thus continue with the remainder of the poem--
+
+  “But hither come, as thou of old,
+   When my voice reached thine ear afar,
+   Didst leave thy father’s hall of gold,
+     And yoke thy car,
+   And through mid air their whirring wing
+   Thy bonny doves did swiftly ply
+   O’er the dark earth, and thee did bring
+     Down from the sky.
+   Right soon they came, and thou, blest Queen,
+   A smile upon thy face divine,
+   Didst ask what ail’d me, what might mean
+     That call of mine.
+   ‘What would’st thou have, with heart on fire,
+   Sappho?’ thou saidst. ‘Whom pray’st thou me
+   To win for thee to fond desire?
+     Who wrongeth thee?
+   Soon shall he seek, who now doth shun;
+   Who scorns thy gifts, shall gifts bestow;
+   Who loves thee not, shall love anon,
+     Wilt thou or no.’
+   So come thou now, and set me free
+   From carking cares; bring to full end
+   My heart’s desire; thyself O be
+     My stay and friend!”
+
+The perfection of the Greek style is fine simplicity. We must not
+say that this characteristic perfection is more absolutely displayed
+in Sappho than in Homer or Sophocles. It is, however, illustrated by
+Sappho in that region of verse which pre-eminently demands it, the
+lyric of personal emotion. There may be, with different persons and
+at different dates, wide differences of interest in regard to the
+themes and structures of the epic, the drama, or the triumphal ode.
+Most forms of poetry must some time cease to find full appreciation,
+because of the peculiar ideas and conventions of their time and place.
+But the poetry of the primal and eternal passions of the human heart,
+of its experiences and its emotions, carries with it those touches
+which make the whole world kin. Love and sorrow are re-born with every
+human being. Time and civilisation make little difference. But those
+touches are only weakened by far-sought words and elaborate metres, by
+recondite conceits and ambitious psychology.
+
+Perhaps the woman who seeks to come nearest to Sappho in poetry is Mrs.
+Browning, but she falls far short of her predecessor, not only through
+inferior mastery of form, but also through an excessive “bookishness”
+of thought. The poet moves by--
+
+  “High and passionate thoughts
+   To their own music chanted.”
+
+In the case of songs whose theme is what Sappho calls the “bitter
+sweet” of love, their proper style has been determined by the gathering
+consensus of humanity, and it is a style simple but powerful, with a
+magic recurring in cadences easy to grasp and too affecting to forget.
+It is the style of “Ye flowery banks o’ bonnie Doon,” not of the Ode on
+St. Cecilia’s Day. Sappho’s songs fulfil all the conditions, and even
+of her fragments that is true which her imitator Horace said of her
+completer poems, as he more happily possessed them--
+
+  “Still breathes the love, still lives the fire
+   Imparted to the Lesbian’s lyre.”
+
+The virtue of Sappho is supreme art without artificiality, utter truth
+to natural feeling wedded to words of utter truth. Let Pausanias,
+that ancient Baedeker, declare that “concerning love Sappho sang many
+things which are inconsistent with one another.” She is only the more
+truthful therefor. No human heart, frankly enjoying or suffering the
+“bitter-sweet” moods and experiences of love, ever was consistent.
+Consistency belongs only to the cool and calculating brain. If love is
+cool and calculating, it is not love.
+
+How much Sappho may have written on other subjects than this, the most
+engrossing of all, we shall perhaps never know. But we may be sure that
+one of the most priceless poetical treasures lost to the world has been
+those other verses which, to quote Shelley on Keats, told of--
+
+  “All she had loved, and moulded into thought
+   From shape and hue and odour and sweet sound.”
+
+There is, we may add, one quality besides beauty in verse which can
+never be analysed. It is charm. Sappho is pervaded with charm. And this
+suggests that we may conclude by quoting the judgment of Matthew Arnold
+upon one defect at least which must make Heine rank always lower than
+Sappho:--
+
+  “Charm is the glory which makes
+   Song of the poet divine;
+   Love is the fountain of charm.
+   How without charm wilt thou draw,
+   Poet! the world to thy way?
+   Not by thy lightnings of wit--
+   Not by thy thunder of scorn!
+   These to the world, too, are given;
+   Wit it possesses and scorn--
+   Charm is the poet’s alone.”
 
 
-Title: Alice’s Adventures in Wonderland
+THE ST. ABBS PRESS, LONDON
 
-Author: Lewis Carroll
 
-Posting Date: June 25, 2008 [EBook #11]
-Release Date: March, 1994
-Last Updated: October 6, 2016
 
-Language: English
 
-Character set encoding: UTF-8
+Transcriber’s Note
 
-*** START OF THIS PROJECT GUTENBERG EBOOK ALICE’S ADVENTURES IN WONDERLAND ***
+
+Punctuation and spelling were made consistent when a predominant
+preference was found in the original book; otherwise they were not
+changed.
 
 
 
 
 
+End of the Project Gutenberg EBook of Sappho, by Thomas George Tucker
+
+*** END OF THIS PROJECT GUTENBERG EBOOK SAPPHO ***
+
+***** This file should be named 60906-0.txt or 60906-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/0/9/0/60906/
+
+Produced by Turgut Dincer, Charlie Howard, and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
 
 
 
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
 
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
 
-ALICE’S ADVENTURES IN WONDERLAND
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
 
-Lewis Carroll
+For additional contact information:
 
-THE MILLENNIUM FULCRUM EDITION 3.0
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
 
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
 
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
 
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
 
-CHAPTER I. Down the Rabbit-Hole
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
 
-Alice was beginning to get very tired of sitting by her sister on the
-bank, and of having nothing to do: once or twice she had peeped into the
-book her sister was reading, but it had no pictures or conversations in
-it, ‘and what is the use of a book,’ thought Alice ‘without pictures or
-conversations?’
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
 
-So she was considering in her own mind (as well as she could, for the
-hot day made her feel very sleepy and stupid), whether the pleasure
-of making a daisy-chain would be worth the trouble of getting up and
-picking the daisies, when suddenly a White Rabbit with pink eyes ran
-close by her.
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
 
-There was nothing so VERY remarkable in that; nor did Alice think it so
-VERY much out of the way to hear the Rabbit say to itself, ‘Oh dear!
-Oh dear! I shall be late!’ (when she thought it over afterwards, it
-occurred to her that she ought to have wondered at this, but at the time
-it all seemed quite natural); but when the Rabbit actually TOOK A WATCH
-OUT OF ITS WAISTCOAT-POCKET, and looked at it, and then hurried on,
-Alice started to her feet, for it flashed across her mind that she had
-never before seen a rabbit with either a waistcoat-pocket, or a watch
-to take out of it, and burning with curiosity, she ran across the field
-after it, and fortunately was just in time to see it pop down a large
-rabbit-hole under the hedge.
+Section 5. General Information About Project Gutenberg-tm electronic works.
 
-In another moment down went Alice after it, never once considering how
-in the world she was to get out again.
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

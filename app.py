@@ -1,22 +1,19 @@
 from flask import Flask, render_template, request, redirect, url_for
-from sample import main_sample
-from histogram import histogram_dict
+from markov2 import word_generator
+import dictogram
+
+
+# from sample import main_sample
+# from histogram import histogram_dict
 
 app = Flask(__name__)
 
 @app.route('/')
 def index():
     """Return Homepage"""
-    
-    sentence_size = 10
-    sentence_list = []
-    text = 'test.txt'
+    sentence = word_generator()
 
-    for i in range(0, sentence_size):
-        sentence_list.append(main_sample(text))
-    sentence_string = " ".join(sentence_list)
-    
-    return render_template('index.html', sentence=sentence_string)
+    return render_template('index.html', sentence=sentence)
 
 if __name__ == '__main__':
     app.run(debug=True)

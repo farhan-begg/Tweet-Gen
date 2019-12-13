@@ -1,6 +1,7 @@
 import random
 from histogram import histogram_dict
 
+
 def random_word(histogram, count):
     '''returns a random word '''
     total = 0
@@ -12,7 +13,7 @@ def random_word(histogram, count):
         if index <= total:  
             return key
 
-def main_sample(source_text):
+def main_sample(words_file):
    
     words = histogram_dict(words_file)
     count = sum(words.values())
