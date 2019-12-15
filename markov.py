@@ -7,18 +7,19 @@ class MarkovChain(dict):
         #intialize the super class
         super(MarkovChain, self).__init__()
         
-        #if word list is passed, create a markov chain 
+       
         if word_list is not None:
             self.create_markov(word_list)
     
     def word_text(self, path = 'test.txt'):
-        words =    open_file(path)
+        words = open_file(path)
     
         return words 
     
     def create_markov(self, word_list):
+        '''takes list of words and creates first order markov'''
         num_words = len(word_list)
-
+        
         for i, key in enumerate(word_list):
 
             if self.get(key) is None:
@@ -29,8 +30,8 @@ class MarkovChain(dict):
                 self.get(key).add_count(word)
     
     def generate_sentence(self, word_list, num_words):
+        '''This method will generate a random sentence from words '''
         random_index = random.randint(0, len(word_list) - 1)
-
         random_word = word_list[random_index]
 
         word = random.choice(list(self.get(random_word)))
@@ -49,9 +50,5 @@ class MarkovChain(dict):
 if __name__ == "__main__":
     word_list = MarkovChain.word_text("  test.txt")
     markov_chain = MarkovChain(word_list)
-
-
-
     print(markov_chain)
-
     print(markov_chain.generate_sentence(word_list, 10))

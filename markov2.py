@@ -17,12 +17,13 @@ class MarkovChain(dict):
     
         return text 
     
+
     def create_markov(self, word_list): 
-        
+        '''This method will create a 2nd order markovchain with word list'''
         num_words = len(word_list)  
-        
-        for index, key1 in enumerate(word_list): 
-            if num_words > index + 2:
+        # loop through each key and increase index
+        for index, key1 in enumerate(word_list):  #adds an index to a word 
+            if num_words > index + 2:             #
                 key2 = word_list[index + 1]
                 word = word_list[index + 2]
 
