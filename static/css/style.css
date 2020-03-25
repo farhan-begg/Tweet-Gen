@@ -1,0 +1,186 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    align-content: center;
+
+    font-family: consolas; background-image: url('https://www.pixel4k.com/wp-content/uploads/2019/03/dark-blur-abstract-4k_1551646029.jpg');
+   
+
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size:16px;
+    position: relative;
+    bottom: -250px;
+}
+
+h3 {
+    color: grey;
+    text-align: center;
+    font-size: 16px;
+    position: relative;
+    bottom: -250px;
+}
+a:hover
+{
+    color: white;
+    transition-delay: .1s;
+    text-decoration: none;
+    
+
+}
+
+a {
+    position: relative;
+    bottom: -250px;
+    display: inline-block;
+    padding: 25px;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-decoration: none;
+    font-size: 16px;
+    overflow: hidden;
+    transition: .1s;
+}
+a span {
+    position: absolute;
+    display: block;
+
+   
+}
+a span:nth-child(1)
+{
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, white );
+}
+a:hover span:nth-child(1){
+    left: 100%;
+    transition: .5s;
+}
+
+
+a span:nth-child(3)
+{
+    bottom: 0;
+    right: -100%;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(270deg,transparent,white);
+
+}
+a:hover span:nth-child(3){
+    right: 100%;
+    transition: .5s;
+    transition-delay: 1s;
+}
+a span:nth-child(2)
+{
+    top: -100%;
+    right: 0;
+    width: 2px;
+    height: 100%;
+    background: linear-gradient(180deg,transparent, white);
+
+}
+a:hover span:nth-child(2){
+    top: 100%;
+    transition: .5s;
+    transition-delay: 0.75s;
+}
+a span:nth-child(4)
+{
+    bottom: -100%;
+    left: 0;
+    width: 2px;
+    height: 100%;
+    background: linear-gradient(360deg,transparent,white);
+
+}
+a:hover span:nth-child(4){
+    bottom: 100%;
+    transition: .5s;
+    transition-delay: 0.75s;
+}
+
+
+
+
+
+
+
+
+/* Generic Styling for CodePen display */
+.container {
+    padding: 0;
+    margin: 0;
+}
+
+/* Social Icon Styling */
+/* Matt Stubenhofer -- https://www.github.com/mstub */
+
+.social-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 0px;
+    position: relative;
+    bottom: -350px;
+}
+
+.social-wrapper i  {
+    font-size: 35px;
+    padding: 0px ;
+    color: grey;
+    cursor: pointer;
+    transition: all ease-in-out 150ms;
+    text-shadow: 0px 7px 10px rgba(0, 0, 0, 0.7);
+}
+
+.social-wrapper i:hover {
+    margin-top: -10px;  
+    transform: translate(0, -8);
+}
+
+#facebook:hover {
+    color: #4867AA;
+    text-shadow: 0px 16px 10px rgba(36, 101, 135, 0.3);
+}
+
+#twitter:hover {
+    color: #1DA1F2;
+    text-shadow: 0px 16px 10px rgba(29, 202, 255, 0.3);
+}
+
+#instagram:hover {
+    color: #8a3ab9;
+    text-shadow: 0px 16px 10px rgba(233, 89, 80, 0.3);
+}
+
+
+#linkedin:hover {
+    color: #0077B5;
+    text-shadow: 0px 16px 10px rgba(0, 160, 220, 0.3);
+}
+
+
+
+
+#github:hover {
+    color: #c9510c;
+    text-shadow: 0px 16px 10px rgba(189, 44, 0, 0.3);
+}
+
+
+#email:hover {
+    color: #dd4b39;
+    text-shadow: 0px 16px 10px rgba(221, 75, 57, 0.3);
+}
+
