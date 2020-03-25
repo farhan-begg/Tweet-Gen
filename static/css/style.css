@@ -4,7 +4,8 @@ body {
     text-align: center;
     align-content: center;
 
-    font-family: consolas; background-image: url('https://www.pixel4k.com/wp-content/uploads/2019/03/dark-blur-abstract-4k_1551646029.jpg');
+    font-family: 'Times New Roman', Times, serif; 
+    background-image: url('https://www.pixel4k.com/wp-content/uploads/2019/03/dark-blur-abstract-4k_1551646029.jpg');
    
 
 }
@@ -30,13 +31,14 @@ a:hover
     color: white;
     transition-delay: .1s;
     text-decoration: none;
+    text-shadow: ivory;
     
 
 }
 
 a {
     position: relative;
-    bottom: -250px;
+    bottom: -270px;
     display: inline-block;
     padding: 25px;
     color: white;
@@ -132,7 +134,7 @@ a:hover span:nth-child(4){
     justify-content: center;
     height: 0px;
     position: relative;
-    bottom: -350px;
+    bottom: -280px;
 }
 
 .social-wrapper i  {
@@ -184,3 +186,43 @@ a:hover span:nth-child(4){
     text-shadow: 0px 16px 10px rgba(221, 75, 57, 0.3);
 }
 
+
+
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+
+body{
+  padding: 40px;
+  background-color: #121212;  
+}
+
+p {
+  border-right: solid 3px rgba(0,255,0,.75);
+  white-space: nowrap;
+  overflow: hidden;    
+  color: grey;
+  text-align: center;
+  font-size: 16px;
+  position: relative;
+  bottom: -250px;
+  text-transform: uppercase;
+}
+
+/* Animation */
+p {
+  animation: animated-text 3s steps(29,end) 1s 1 normal both,
+             animated-cursor 900ms steps(29,end) infinite;
+}
+
+/* text animation */
+
+@keyframes animated-text{
+  from{width: 0;}
+  to{width: 720px;}
+}
+
+/* cursor animations */
+
+@keyframes animated-cursor{
+  from{border-right-color: rgba(255, 255, 255, 0.75);}
+  to{border-right-color: transparent;}
+}
